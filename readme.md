@@ -6,7 +6,9 @@ Inspired by Chump! for iOS
 
 ####应用截图
 
-![][1] ![][2] ![][3] ![][4]
+![][0]
+
+![][1]![][2]![][3] ![][4]
 
 
 ####Android APK
@@ -25,6 +27,7 @@ IntelliJ IDEA
 GPLv3
 
 
+[0]:snapshot.png
 [1]:snapshot1.png
 [2]:snapshot2.png
 [3]:snapshot3.png
